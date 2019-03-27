@@ -4,6 +4,8 @@ si la prop star vaut true applique un style particulier à ton avatar (couleur d
 
 
 // App.js
+
+
 import React, { Component } from 'react';
 import './App.css';
 import Avatar from './Avatar';
