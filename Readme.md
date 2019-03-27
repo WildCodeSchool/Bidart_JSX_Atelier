@@ -48,7 +48,7 @@ class Avatar extends Component {
     return (
       <div>
         <h1>
-          {this.props.firstName} {this.props.lastName.toUpperCase()}
+          {this.props.firstName} {this.props.lastName}
         </h1>
         <img src={this.props.image} />
       </div>
